@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Courier-Prime";
+    src: url("../fonts/CourierPrime-Regular.ttf");
+}
+body{
+    background-color: orange;
+    font-family: "Courier-Prime";
+}
+h1{
+    text-shadow: 0.5rem 0.5rem 0.5rem white;
+}
